@@ -8,3 +8,4 @@ REQUIREMENTS:
 NOTES:
 - Since the ping speed remains constant during the test, it is printed at the end
 - The less spread out the points are, the more consistent the WiFi is
+- The actual test itself does take time however, the speed of the test is not based on Wifi speeds
